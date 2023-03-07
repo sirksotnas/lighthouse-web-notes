@@ -36,3 +36,6 @@ $[runtime] [script_name] [argument-1 argument-2 argument-3 ... argument-n]
 * The simplest way to retrieve arguments in Node.js is via the process.argv array.
 
 * The first element of the process is a file system path, the second element is the name of the JavaScript file, and the third element is the first argument passed by the user.
+
+Example: [progressargv.js](/focal/processargv.js)
+
